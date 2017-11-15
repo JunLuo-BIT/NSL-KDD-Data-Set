@@ -1,5 +1,5 @@
 # NSL-KDD-Data-Set
-Backup of data from M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set” (2009)
+Backup of data from M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set” (2009). Please make sure to credit them for any use of this data.
 
 Notes:
 * There are 2 fields not included in Field Names.csv: the label and the difficulty level (see referenced paper)
