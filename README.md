@@ -1,7 +1,7 @@
 # NSL-KDD-Data-Set
 Backup of data from M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set” (2009)
 
-From [web archives](https://web.archive.org/web/20150205070216/http://nsl.cs.unb.ca/NSL-KDD/):
+From [Wayback Machine archives](https://web.archive.org/web/20150205070216/http://nsl.cs.unb.ca/NSL-KDD/):
 
 ## Abstract
 NSL-KDD is a data set suggested to solve some of the inherent problems of the KDD'99 data set which are mentioned in [1]. Although, this new version of the KDD data set still suffers from some of the problems discussed by McHugh [2] and may not be a perfect representative of existing real networks, because of the lack of public data sets for network-based IDSs, we believe it still can be applied as an effective benchmark data set to help researchers compare different intrusion detection methods. Furthermore, the number of records in the NSL-KDD train and test sets are reasonable. This advantage makes it affordable to run the experiments on the complete set without the need to randomly select a small portion. Consequently, evaluation results of different research work will be consistent and comparable.
