@@ -2,8 +2,8 @@
 Backup of data from M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set” (2009)
 
 Notes:
-* There are 2 fields not included in [Field Names.csv](Field Names.csv): the label and the difficulty level (see referenced paper)
-* The [Attack Types.csv](Attach Types.csv) file only includes attack types in the training set; there are additional attacks in the test set.
+* There are 2 fields not included in [Field Names.csv]('../Field Names.csv'): the label and the difficulty level (see referenced paper)
+* The [Attack Types.csv]('../Attack Types.csv') file only includes attack types in the training set; there are additional attacks in the test set.
 
 From [Wayback Machine archives](https://web.archive.org/web/20150205070216/http://nsl.cs.unb.ca/NSL-KDD/):
 
